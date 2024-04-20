@@ -1,6 +1,7 @@
 .logo {
-      width: 54%;
-      margin-left: 34px;
+      width: 170px;
+      margin-left: -4px;
+
   }
   
   .nav-theme {
@@ -21,10 +22,10 @@
       height: auto !important;
       width: 100%;
     }
-    .logo{
+    /* .logo{
     margin-bottom:-32px;
     margin-left: 22px;
-    }
+    } */
   }
   
   @keyframes moveDown {

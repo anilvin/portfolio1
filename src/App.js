@@ -10,8 +10,8 @@ import Bounce from "react-reveal/Bounce";
 import Slide from "react-reveal/Slide";
 import Container from "react-bootstrap/Container";
 import Skills from "./views/skills/Skills";
-import Blog from "./views/blog-section/BlogSection";
-import Projects from "./views/projects/projects";
+// import Blog from "./views/blog-section/BlogSection";
+// import Projects from "./views/projects/projects";
 import Contact from "./views/contact/Contact";
 import Footer from "./components/footer/Footer";
 
@@ -46,23 +46,23 @@ function App() {
           </Container>
         </div>
 
-        <div>
+        {/* <div>
           <Container className="container-box rounded">
             <Slide bottom duration={1000}>
               <hr />
               <Projects />
             </Slide>
           </Container>
-        </div>
+        </div> */}
 
-        <div>
+        {/* <div>
           <Container className="container-box rounded">
             <Slide left duration={2000}>
               <hr />
               <Blog />
             </Slide>
           </Container>
-        </div>
+        </div> */}
       </div>
 
       <div>

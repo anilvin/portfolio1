@@ -37,7 +37,7 @@ const customTheme = createTheme(themes.default, {
     borderColor: '#070d59',
   },
   timelineTrack: {
-    backgroundColor: '#ec4b4f',
+    backgroundColor: '#ec4b4f', 
   },
 });
 

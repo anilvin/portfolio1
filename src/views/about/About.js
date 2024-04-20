@@ -21,14 +21,19 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded tex align-text-left " >
-                <br />Web Developer with expertise of React.js, Redux, Cloud Firestore, HTML and CSS. currently learning React Native for Mobile Application.
-                <br /><br/>
-                I am passionate programmer and a learner, born and brought up in Pakistan.Currently, I am enrolled in Tech Karo - Web Development Program "Conducted by CIRCLE".
+                <br />•	Frontend Developer with 4 years of professional experiences in Web development using Web Technologies.
+                <br />
+                <br/>
+                •	Strong developing experience with HTML, CSS, JavaScript, React js, React Hooks, Redux and Next js. Knowledgeable in web standards and responsive design.
                 <br />
                 <br />
-                Along with that, I also help people as a COACH on their journey of becoming a professional programmer. 
-                <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
-                <br /> <br />
+                •	Good debugging and problem-solving skills. Confidence to drive assignments to completion.
+                <br />
+                <br />
+                •	Staying up-to-date with web development trends and technologies: This involves continuously learning new skills, tools, and techniques to stay current with the rapidly changing field of web development. 
+                I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
+                <br /> 
+                <br />
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
                     <a href="#contact">
@@ -44,22 +49,22 @@ const About = () => {
                       </Button>
                     </a>
                   </div>
-                  <div>
-                    <a href="https://medium.com/@adibaabid" target="_blank" rel="noopener noreferrer">
+                  {/* <div>
+                    <a href="https://medium.com/@anil" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-secondary">
                         Medium
                       </Button>
                     </a>
-                  </div>
+                  </div> */}
                   <div>
-                    <a href="https://github.com/AdibaAbid" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/anilvin" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-dark">
                         GitHub
                       </Button>
                     </a>
                   </div>
                   <div>
-                    <a href="https://www.linkedin.com/in/adiba-abid-2658b9199/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.linkedin.com/in/anil-singh-8a9b792b8" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-info">
                         LinkedIn
                       </Button>
